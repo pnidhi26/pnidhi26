@@ -10,14 +10,14 @@
 
 - 🌱 I’m also interested in **Machine Learning**
 
-- 💬 Ask me about **Software Development | Technologies | Startups**
+- 💬 Ask me about **SW Dev | Technologies | Startups**
 
-- 📫 How to reach me **prakashnidhiverma@gmail.com**
+- 📫 Grab a coffee with me **prakashnidhiverma@gmail.com**
 
-- 👨‍💻 All of my projects are available at [prakashnidhiverma](https://prakashnv-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [prakashnidhiverma.dev](https://prakashnv-portfolio.netlify.app/)
 
-- ⚡ Fun fact **Learning every second**
-<br>
+- ⚡ Fun fact **SWE is all about art of Googling | Change my mind!**
+<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/prakashx26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prakashx26" height="30" width="40" /></a>
