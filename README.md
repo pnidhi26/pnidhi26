@@ -1,4 +1,4 @@
-![Banner]<h1 align="center">(https://raw.githubusercontent.com/imakshath/imakshath/master/1%20IRGHmiGsa16stedQvIaZfw.gif)</h1>
+![Banner]   (https://raw.githubusercontent.com/imakshath/imakshath/master/1%20IRGHmiGsa16stedQvIaZfw.gif)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prakash Nidhi Verma</h1>
 <h3 align="center">I'm a passionate Full-Stack Developer from India 🇮🇳.</h3>
 
