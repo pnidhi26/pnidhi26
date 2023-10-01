@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/imakshath/imakshath/master/1%20IRGHmiGsa16stedQvIaZfw.gif)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prakash Nidhi Verma</h1>
-<h3 align="center">I'm a passionate Full-Stack Developer from India 🇮🇳.</h3>
+<h3 align="center"> <<< I'm a passionate Full-Stack Developer >>> </h3>
 
 <!-- <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"> -->
 
