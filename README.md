@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pnidhi26&label=Profile%20views&color=0e75b6&style=flat" alt="pnidhi26" /> </p>
 
-- 🔭 I’m currently working as **Software Development Engineer**
+- 🔭 I’m currently pursuing my masters in Computer Science at **California State University(CSU), Chico**
 
-- 🌱 I’m also interested in **Machine Learning**
+- 🌱 I’m also interested in **Software Development Engineer** and **Machine Learning**
 
 - 💬 Grab a coffee with me and lets discuss **SW Dev | Technologies | Startups**
 
