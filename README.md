@@ -16,7 +16,7 @@
 
 - 👨‍💻 Reach out to my project works [prakashnidhiverma.dev](https://prakashnv-portfolio.netlify.app/)
 
-- ⚡ Fun fact **SWE is all about art of Googling | Change my mind!**
+- ⚡ Fun fact **SWE is all about the art of Googling, Change my mind!**
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
