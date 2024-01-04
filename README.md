@@ -6,17 +6,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pnidhi26&label=Profile%20views&color=0e75b6&style=flat" alt="pnidhi26" /> </p>
 
-- 🔭 I’m currently pursuing my masters in Computer Science at **California State University(CSU), Chico**
+- 📍 California, USA 🇺🇸
 
-- 🌱 I’m also interested in **Software Development Engineer** and **Machine Learning**
+- 🎓 Pursuing Master's in Computer Science at **California State University, Chico**
+
+- 🔭 I’m interested in **Software Development** and **Machine Learning**
 
 - 💬 Grab a coffee with me and lets discuss **SW Dev | Technologies | Startups**
 
-- 📫 Pick my mind at **prakashnidhiverma@gmail.com**
+- 📫 Reach me out at **prakashnidhiverma@gmail.com**
 
-- 👨‍💻 Reach out to my project works [prakashnidhiverma.dev](https://prakashnv-portfolio.netlify.app/)
+- 👨‍💻 Check out my project works [prakashnidhiverma.dev](https://siliconvalleyguy.dev/)
 
-- ⚡ Fun fact **SWE is all about the art of Googling, Change my mind!**
+- ⚡ Fun fact **SWE is all about art of Googling, Change my mind!**
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
