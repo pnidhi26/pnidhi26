@@ -30,7 +30,7 @@
 <a href="https://www.kaggle.com/pnidhi26" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="pnidhi26" height="30" width="40" /></a>
 </p>
 <be>
-## 📦 Toolbox
+<h3 align="left">📦 Toolbox</h3>
 
 **Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
  
