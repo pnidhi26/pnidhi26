@@ -23,7 +23,7 @@
 <br><br>
 <h3 align="left">Connect Me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/prakashx26/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siliconvalleyguy_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/siliconvalleyguy_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siliconvalleyguy_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pnidhi26/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pnidhi26" height="30" width="40" style="background-color:white;" /></a>
 <a href="https://www.hackerrank.com/dead__coder" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dead__coder" height="30" width="40" /></a>
 <a href="https://leetcode.com/codeMonk__/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pnidhi26" height="30" width="40" /></a>
@@ -31,7 +31,7 @@
 </p>
 <be>
 
-<br><br>
+<br>
 <h3 align="left">📦 Toolbox</h3>
 
 **Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
