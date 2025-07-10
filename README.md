@@ -1,14 +1,14 @@
 ![Banner](https://raw.githubusercontent.com/imakshath/imakshath/master/1%20IRGHmiGsa16stedQvIaZfw.gif)
 <h1 align="center">Hey, I'm Prakash <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">  I'm a Full Stack Developer based in California, and I'm passionate about crafting digital experiences.  </h3>
+<h3 align="center">  I'm a Full Stack Software Developer based in California, and I'm passionate about crafting digital experiences.  </h3>
 
 <!-- <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pnidhi26&label=Profile%20views&color=0e75b6&style=flat" alt="pnidhi26" /> </p>
 
-- 🎓 Pursuing Master's in Computer Science at **California State University, Chico**
+- 🎓 Master's in Computer Science at **California State University, Chico**
 
-- 🔭 I’m interested in **Software Development** and **Machine Learning**
+- 🔭 I’m interested in **Software Development** and **AI Agents, GenAI, LLMs**
 
 - 💬 Grab a coffee with me and lets discuss **SW Dev | Technologies | Startups**
 
@@ -17,7 +17,6 @@
 - 👨‍💻 Check out my project works [siliconvalleyguy.dev](https://siliconvalleyguy.dev/)
 
 - ⚡ Fun Facts
-  - As a kid, I wanted to be an astronaut.
   - I love using Mac after switching from Linux.
   - **SWE is all about the art of Googling, Change my mind!**
 <br><br>
